@@ -1,22 +1,19 @@
 # Retail Fashion Analytics
 
-**Recommended Excel starter dataset:** [Project 01 — Sales Performance Analysis](project-01/)
+This dataset is used for **Excel Project 01 — Sales Performance Analysis**.
 
-The Project 01 folder contains a relationally matched, **1,200-transaction sample** from the user-supplied Retail Fashion Analytics source files. Its `README.md` explains the joins, source-quality issues and calculation assumptions. Start there, not with independently sampled files.
+## [Open Project 01 and download the four required CSV files](project-01/)
 
-## Project 01 files
+The project folder contains:
 
-- [sales.csv](project-01/sales.csv) — 1,200 transactions
-- [products.csv](project-01/products.csv) — 1,183 related products
-- [customers_part_01.csv](project-01/customers_part_01.csv), [part 02](project-01/customers_part_02.csv), [part 03](project-01/customers_part_03.csv) — 1,118 unique matching customers in three files to append
-- [store_data.csv](store_data.csv) — complete original store dimension (5 rows)
+- `sales.csv`
+- `products.csv`
+- `customers.csv`
+- `stores.csv`
+- `README.md` — setup instructions, join relationships, retained data-quality issues and metric definitions
 
-The parent folder also preserves the originally uploaded full `customer_data.csv`, which contains an email column not necessary for Project 01. The Project 01 customer extracts omit that field.
+**Everything you need is in that one folder.** You do not need to search elsewhere in the repository or download additional retail files.
 
-## Important analytical limits
+The exercise uses a relationally linked **1,200-transaction sample** of the original Retail Fashion Analytics data. It supports cleaning, sales-value estimation, Excel formulas, PivotTables and a summary dashboard.
 
-The dataset includes product list prices, costs, quantity and discounts, but no actual transaction selling price or refund amount. Calculate **estimated sales value** and **estimated gross margin**, not audited revenue/profit. Returns are represented by flags.
-
-## Licence
-
-The original dataset was described by its uploader as MIT licensed. The underlying publication and redistribution rights have not been independently verified.
+**Note:** The source was described by the uploader as MIT-licensed, but its original provenance and redistribution permissions have not been independently verified.
