@@ -4,7 +4,7 @@ The public repository currently provides **ten working dataset folders** for the
 
 ## Current ten working datasets
 
-1. [Retail Fashion Analytics](retail-fashion-analytics/) — complete customer and store tables; representative sales and product samples. **Note:** the sales/product samples and full customer data do not necessarily share matching keys throughout. Full multi-table joins require a relationally consistent subset or the original complete tables.
+1. [Retail Fashion Analytics — Excel Project 01](retail-fashion-analytics/project-01/) — one ready-to-use, relationally matched 1,200-transaction sample containing exactly four required CSVs and a setup README.
 2. [European Airbnb Prices](european-airbnb-prices/) — sample, 3,000 listings.
 3. [Messy Marketing Campaigns](marketing-campaigns/) — complete campaign CSV.
 4. [LinkedIn Job Market](linkedin-jobs/) — anonymised sample, not full original.
