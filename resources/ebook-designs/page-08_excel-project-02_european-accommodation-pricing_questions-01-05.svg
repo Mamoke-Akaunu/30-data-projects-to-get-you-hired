@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="800" viewBox="0 0 512 800" role="img" aria-label="Page 8: Excel Project 02 European Accommodation Pricing and Benchmarking, Questions 1 through 5">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#020F25"/><stop offset="0.58" stop-color="#07223D"/><stop offset="1" stop-color="#07142B"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D3641"/><stop offset="1" stop-color="#112746"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#18F1BD"/><stop offset="0.58" stop-color="#25DCE9"/><stop offset="1" stop-color="#9852EA"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#007A97" stop-opacity=".52"/><stop offset="1" stop-color="#007A97" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="512" height="800" fill="url(#bg)"/>
+<ellipse cx="458" cy="130" rx="170" ry="180" fill="url(#glow)"/>
+<path d="M0 0H95L0 96Z" fill="#03C2C2" opacity=".28"/>
+<path d="M0 752Q155 702 278 754T512 725V800H0Z" fill="#2B1361" opacity=".43"/>
+<path d="M0 790Q151 742 281 773T512 748V800H0Z" fill="#05B2B8" opacity=".2"/>
+<text x="20" y="27" fill="#DFEDFB" font-size="9.5" font-weight="700" text-anchor="start" >▥  30 DATA PROJECTS TO GET YOU HIRED</text>
+<text x="492" y="27" fill="#DCEFFA" font-size="9.3" font-weight="700" text-anchor="end" >EXCEL PROJECTS</text>
+<path d="M23 39H489" stroke="#19D9D1" stroke-width="1.4"/>
+<!-- project title -->
+<rect x="22" y="53" width="68" height="87" rx="11" fill="#063A31" stroke="#16E69E" stroke-width="1.5"/>
+<rect x="29" y="65" width="44" height="50" rx="5" fill="#13AE71"/>
+<rect x="45" y="65" width="34" height="50" rx="5" fill="#188C66" opacity=".7"/>
+<text x="48" y="104" fill="white" font-size="42" font-weight="800" text-anchor="middle" >X</text>
+<rect x="112" y="54" width="109" height="24" rx="10" fill="#093E45" stroke="#16EBA7" stroke-width="1.1"/>
+<text x="166" y="70" fill="#47FFD5" font-size="13" font-weight="800" text-anchor="middle" >PROJECT 02</text>
+<text x="111" y="98" fill="#FFFFFF" font-size="18" font-weight="800" text-anchor="start" >EUROPEAN ACCOMMODATION</text>
+<text x="111" y="121" fill="#FFFFFF" font-size="18" font-weight="800" text-anchor="start" >PRICING &amp; BENCHMARKING</text>
+<text x="111" y="146" fill="#30EDE7" font-size="10.8" font-weight="700" text-anchor="start" >Excel  ·  Page 1 of 2  ·  Questions 1–5</text>
+<path d="M22 162H491" stroke="url(#accent)" stroke-width="2"/>
+<!-- scenario -->
+<rect x="21" y="173" width="226" height="114" rx="12" fill="url(#card)" stroke="#10DBAC" stroke-width="1.7"/>
+<text x="35" y="194" fill="#62FFDA" font-size="14" font-weight="800" text-anchor="start" >BUSINESS SCENARIO</text>
+<text x="35" y="213" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >You are a junior market research analyst.</text>
+<text x="35" y="226" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >Benchmark listed accommodation prices</text>
+<text x="35" y="239" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >across nine European cities. Explore</text>
+<text x="35" y="252" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >weekday/weekend differences, room types</text>
+<text x="35" y="265" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >and property characteristics to guide</text>
+<text x="35" y="278" fill="#F4F8FE" font-size="10.8" font-weight="450" text-anchor="start" >pricing discussions.</text>
+<!-- dataset -->
+<rect x="258" y="173" width="233" height="114" rx="12" fill="url(#card)" stroke="#24BFFA" stroke-width="1.7"/>
+<text x="272" y="194" fill="#70DAFF" font-size="14" font-weight="800" text-anchor="start" >DATASET LINK</text>
+<text x="272" y="211" fill="#D8E9F5" font-size="10.4" font-weight="600" text-anchor="start" >One CSV · 2,160 listings · 9 cities</text>
+<rect x="272" y="221" width="204" height="29" rx="8" fill="#071B32" stroke="#51E5E2" stroke-width="1.9"/>
+<text x="272" y="268" fill="#D4E2F6" font-size="8.1" font-weight="500" text-anchor="start" >File: accommodation_balanced_sample_2160.csv</text>
+<!-- skills -->
+<rect x="21" y="298" width="226" height="101" rx="12" fill="url(#card)" stroke="#32DDAA" stroke-width="1.7"/>
+<text x="35" y="319" fill="#62FFD9" font-size="13" font-weight="800" text-anchor="start" >SKILLS YOU'LL PRACTISE</text>
+<text x="36" y="338" fill="#F1F8FB" font-size="10.6" font-weight="450" text-anchor="start" >• Validate numeric and category fields</text>
+<text x="36" y="351" fill="#F1F8FB" font-size="10.6" font-weight="450" text-anchor="start" >• Calculate averages and medians</text>
+<text x="36" y="364" fill="#F1F8FB" font-size="10.6" font-weight="450" text-anchor="start" >• Compare prices with PivotTables</text>
+<text x="36" y="377" fill="#F1F8FB" font-size="10.6" font-weight="450" text-anchor="start" >• Interpret outliers and small groups</text>
+<text x="36" y="390" fill="#F1F8FB" font-size="10.6" font-weight="450" text-anchor="start" >• Build charts and a summary report</text>
+<!-- deliverables -->
+<rect x="258" y="298" width="233" height="101" rx="12" fill="#1D2048" stroke="#B676F8" stroke-width="1.7"/>
+<text x="272" y="319" fill="#D1A0FF" font-size="13" font-weight="800" text-anchor="start" >YOUR DELIVERABLES</text>
+<text x="273" y="338" fill="#F1EAFB" font-size="10.6" font-weight="450" text-anchor="start" >• Validated Excel source table</text>
+<text x="273" y="351" fill="#F1EAFB" font-size="10.6" font-weight="450" text-anchor="start" >• Pricing and category summaries</text>
+<text x="273" y="364" fill="#F1EAFB" font-size="10.6" font-weight="450" text-anchor="start" >• PivotTables, charts and comparisons</text>
+<text x="273" y="377" fill="#F1EAFB" font-size="10.6" font-weight="450" text-anchor="start" >• Brief evidence-based findings</text>
+<text x="273" y="390" fill="#F1EAFB" font-size="10.6" font-weight="450" text-anchor="start" >• Documented sampling limitations</text>
+<text x="25" y="423" fill="#FFFFFF" font-size="17" font-weight="800" text-anchor="start" >PROJECT QUESTIONS  1–5</text>
+<path d="M267 417H488" stroke="#22C7CB" stroke-width="1.2"/>
+<rect x="21" y="435" width="470" height="55" rx="12" fill="#062F3A" stroke="#35CFCD" stroke-width="1.3"/><circle cx="47" cy="462" r="17" fill="#076B53" stroke="#65F5C0" stroke-width="1.7"/><text x="47" y="467" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >01</text><text x="76" y="455" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Validate Price, Person Capacity, Bedrooms, Day and</text>
+<text x="76" y="469" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Room Type; flag duplicates, invalid entries and outliers.</text>
+<rect x="21" y="494" width="470" height="55" rx="12" fill="#062F3A" stroke="#35CFCD" stroke-width="1.3"/><circle cx="47" cy="521" r="17" fill="#076B53" stroke="#65F5C0" stroke-width="1.7"/><text x="47" y="526" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >02</text><text x="76" y="514" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Count the sampled listings by city. How many are</text>
+<text x="76" y="528" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >labelled Weekday versus Weekend?</text>
+<rect x="21" y="553" width="470" height="55" rx="12" fill="#062F3A" stroke="#35CFCD" stroke-width="1.3"/><circle cx="47" cy="580" r="17" fill="#076B53" stroke="#65F5C0" stroke-width="1.7"/><text x="47" y="585" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >03</text><text x="76" y="573" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Rank cities by median listed price. How do the</text>
+<text x="76" y="587" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >mean and median differ for each city?</text>
+<rect x="21" y="612" width="470" height="55" rx="12" fill="#062F3A" stroke="#35CFCD" stroke-width="1.3"/><circle cx="47" cy="639" r="17" fill="#076B53" stroke="#65F5C0" stroke-width="1.7"/><text x="47" y="644" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >04</text><text x="76" y="632" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Within each city, how do Weekday and Weekend</text>
+<text x="76" y="646" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >median listed prices compare?</text>
+<rect x="21" y="671" width="470" height="55" rx="12" fill="#062F3A" stroke="#35CFCD" stroke-width="1.3"/><circle cx="47" cy="698" r="17" fill="#076B53" stroke="#65F5C0" stroke-width="1.7"/><text x="47" y="703" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >05</text><text x="76" y="691" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Compare median prices across room types by city.</text>
+<text x="76" y="705" fill="#F3FAFC" font-size="11.2" font-weight="500" text-anchor="start" >Flag groups with too few observations.</text>
+<text x="27" y="743" fill="#72FAE9" font-size="9.6" font-weight="600" text-anchor="start" >NOTE: Balanced practice sample; no bookings, occupancy or realised revenue.</text>
+<path d="M21 762H491" stroke="url(#accent)" stroke-width="1.7"/>
+<text x="23" y="785" fill="#DDE7F6" font-size="9.6" font-weight="700" text-anchor="start" >MAMOKE AKAUNU · PORTFOLIO PLAYBOOK</text>
+<rect x="457" y="768" width="34" height="24" rx="9" fill="#0B625F" stroke="#37DCE7" stroke-width="1"/>
+<text x="474" y="785" fill="#FFFFFF" font-size="13" font-weight="800" text-anchor="middle" >08</text>
+</svg>
