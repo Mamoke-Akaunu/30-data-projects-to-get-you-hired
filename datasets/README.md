@@ -1,20 +1,28 @@
 # Dataset Catalogue
 
-Datasets will have their own folders, each with a README describing the source, individual files, column meanings, joins, quality warnings and usage rights.
+The public repository currently provides **ten working dataset folders** for the ebook, plus an excluded-finance folder with information only. Some datasets are **samples**, not the full user-uploaded originals; names explicitly label them as samples.
 
-**Publishing policy:** The project shortlist does not establish third-party redistribution rights. When source terms are uncertain, public folders will provide metadata and download instructions until a distributable copy or approved substitute is available. No dataset is licensed by virtue of this repository's public visibility.
+## Current ten working datasets
 
-## Planning shortlist
+1. [Retail Fashion Analytics](retail-fashion-analytics/) — complete customer and store tables; representative sales and product samples. **Note:** the sales/product samples and full customer data do not necessarily share matching keys throughout. Full multi-table joins require a relationally consistent subset or the original complete tables.
+2. [European Airbnb Prices](european-airbnb-prices/) — sample, 3,000 listings.
+3. [Messy Marketing Campaigns](marketing-campaigns/) — complete campaign CSV.
+4. [LinkedIn Job Market](linkedin-jobs/) — anonymised sample, not full original.
+5. [U.S. Domestic Airline Routes](us-airline-routes/) — sample, 1,000 records.
+6. [FIFA 21 Players](fifa21-players/) — raw and cleaned samples.
+7. [Spotify Tracks](spotify-tracks/) — decade-specific samples.
+8. [Synthetic Crime Incidents](crime-incidents/) — sample, 2,000 records.
+9. [Travel Insurance](travel-insurance/) — sample, 5,000 records.
+10. [U.S. Census Indicators](us-census/) — complete uploaded source file.
 
-1. Retail Fashion Analytics
-2. European Airbnb Accommodation Prices
-3. S&P 500 Stocks and Financial Statements
-4. Messy Marketing Campaigns
-5. LinkedIn Job Market
-6. U.S. Domestic Airline Routes
-7. FIFA 21 Player Data
-8. Spotify Tracks: Hits vs Flops
-9. Messy Crime Incident Records
-10. Travel Insurance Claims and Sales
+## Excluded from public data distribution
 
-These are planning selections; publication of source data remains subject to provenance and redistribution checks.
+[S&P 500 financial analysis](sp500-financial-analysis/) is **not** a working dataset for this edition. Source files were not published because the underlying Yahoo Finance redistribution terms conflict with commercial republishing. This slot was replaced with U.S. Census indicators.
+
+## Licence and provenance
+
+A public GitHub repository is not evidence that third-party contents are free of copyright, licence, privacy or contractual restrictions. Dataset-level README files document known caveats. Where rights are unclear, inclusion represents the user's requested project planning approach, **not confirmation of rights**. Consider replacing uncertain data before broader commercial distribution.
+
+## Progress
+
+The repository is a project-development scaffold, not yet a complete set of 30 solved projects. Add project files and final dataset packages once the 30-project blueprint and legal/publication decisions are settled.
