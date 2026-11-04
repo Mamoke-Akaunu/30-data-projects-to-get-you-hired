@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="800" viewBox="0 0 512 800" role="img" aria-label="Excel Project 04 Technology Job Market and Data Careers Analysis, Questions 1–5, Page 12">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.85" y2="1"><stop stop-color="#041329"/><stop offset=".6" stop-color="#05253e"/><stop offset="1" stop-color="#11163d"/></linearGradient>
+<linearGradient id="row" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#064c3d"/><stop offset=".5" stop-color="#0a3340"/><stop offset="1" stop-color="#072035"/></linearGradient>
+<linearGradient id="excel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10d38d"/><stop offset="1" stop-color="#006f52"/></linearGradient>
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#321b65"/><stop offset="1" stop-color="#122b48"/></linearGradient>
+<linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6028b0"/><stop offset=".6" stop-color="#007ba2"/><stop offset="1" stop-color="#10e8d7"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="512" height="800" fill="url(#bg)"/>
+<path d="M0 0H82L0 84Z" fill="#0ba2a9" opacity=".43"/>
+<path d="M300 80Q420 28 512 56" fill="none" stroke="#15dfcb" stroke-width="3" opacity=".24"/>
+<path d="M0 164Q142 157 256 173T512 166" fill="none" stroke="#32eee1" stroke-width="5" opacity=".5" filter="url(#glow)"/>
+<path d="M0 164Q142 157 256 173T512 166" fill="none" stroke="#32eee1" stroke-width="1.5" opacity=".8"/>
+<text x="27" y="26" font-family="Arial,Helvetica,sans-serif" font-size="10.4" font-weight="700" fill="#fff"><tspan x="27" dy="0">▥  30 DATA PROJECTS TO GET YOU HIRED</tspan></text>
+<text x="418" y="26" font-family="Arial,Helvetica,sans-serif" font-size="10.2" font-weight="700" fill="#d9f9fd"><tspan x="418" dy="0">EXCEL PROJECTS</tspan></text>
+<line x1="28" y1="36" x2="483" y2="36" stroke="#21e1da" stroke-width="1.3"/>
+<rect x="28" y="59" width="81" height="92" rx="12" fill="url(#excel)" stroke="#45f8b6" stroke-width="1.2"/>
+<rect x="38" y="73" width="53" height="62" rx="8" fill="#006d4c"/>
+<text x="51" y="117" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#fff"><tspan x="51" dy="0">X</tspan></text>
+<rect x="121" y="55" width="110" height="28" rx="11" fill="#04483c" stroke="#35e8b4" stroke-width="1.5"/>
+<text x="131" y="75" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#64ffcf"><tspan x="131" dy="0">PROJECT 04</tspan></text>
+<text x="120" y="104" font-family="Arial,Helvetica,sans-serif" font-size="18.5" font-weight="700" fill="#fff"><tspan x="120" dy="0">TECHNOLOGY JOB MARKET</tspan></text>
+<text x="120" y="127" font-family="Arial,Helvetica,sans-serif" font-size="17.5" font-weight="700" fill="#fff"><tspan x="120" dy="0">&amp; DATA CAREERS ANALYSIS</tspan></text>
+<rect x="121" y="137" width="111" height="26" rx="13" fill="#1de1e5"/>
+<text x="131" y="154" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#052340"><tspan x="131" dy="0">Page 1 of 2</tspan></text>
+<rect x="243" y="137" width="146" height="26" rx="12" fill="#0a2634" stroke="#4bdaba" stroke-width="1.5"/>
+<text x="254" y="154" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#fff"><tspan x="254" dy="0">Questions 1–5</tspan></text>
+<g fill="none" stroke="#35ebda" stroke-width="2.6">
+<rect x="415" y="75" width="59" height="44" rx="5"/><circle cx="437" cy="89" r="7"/><path d="M424 109Q437 94 449 109"/><circle cx="465" cy="114" r="13"/><path d="M474 125l14 13"/>
+</g>
+<rect x="24" y="177" width="464" height="102" rx="12" fill="url(#row)" stroke="#23e7bf" stroke-width="1.7"/>
+<text x="38" y="197" font-family="Arial,Helvetica,sans-serif" font-size="15.3" font-weight="700" fill="#85fce4"><tspan x="38" dy="0">BUSINESS SCENARIO</tspan></text>
+<text x="38" y="216" font-family="Arial,Helvetica,sans-serif" font-size="11.6" font-weight="400" fill="#f2fbff"><tspan x="38" dy="0">You are a Junior Workforce Insights Analyst advising career</tspan></text>
+<text x="38" y="232" font-family="Arial,Helvetica,sans-serif" font-size="11.6" font-weight="400" fill="#f2fbff"><tspan x="38" dy="0">seekers. Compare data-related job titles, work arrangements</tspan></text>
+<text x="38" y="248" font-family="Arial,Helvetica,sans-serif" font-size="11.6" font-weight="400" fill="#f2fbff"><tspan x="38" dy="0">and locations in a messy sample of technology postings.</tspan></text>
+<text x="38" y="265" font-family="Arial,Helvetica,sans-serif" font-size="11.2" font-weight="400" fill="#c9eaf0"><tspan x="38" dy="0">Report limitations instead of claiming current market demand.</tspan></text>
+<rect x="24" y="289" width="464" height="57" rx="12" fill="#082b3d" stroke="#2eebe0" stroke-width="1.7"/>
+<text x="38" y="310" font-family="Arial,Helvetica,sans-serif" font-size="13.8" font-weight="700" fill="#81f8e4"><tspan x="38" dy="0">DATASET LINK</tspan></text>
+<rect x="166" y="297" width="307" height="41" rx="8" fill="#06192a" stroke="#b4ffff" stroke-width="1.6"/>
+<rect x="24" y="354" width="464" height="44" rx="10" fill="#0c2642" stroke="#45b7fa" stroke-width="1.6"/>
+<text x="38" y="372" font-family="Arial,Helvetica,sans-serif" font-size="12.3" font-weight="700" fill="#91d7ff"><tspan x="38" dy="0">DATASET FILE</tspan></text>
+<text x="38" y="390" font-family="Arial,Helvetica,sans-serif" font-size="12.2" font-weight="600" fill="#fff"><tspan x="38" dy="0">job_postings_anonymized_sample.csv   ·   2,000 records</tspan></text>
+<rect x="24" y="409" width="148" height="87" rx="11" fill="#063e35" stroke="#37e9b2" stroke-width="1.4"/>
+<text x="35" y="429" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#8affd2"><tspan x="35" dy="0">KEY SKILLS</tspan></text>
+<text x="35" y="447" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="35" dy="0">• Data validation</tspan></text>
+<text x="35" y="462" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="35" dy="0">• Role classification</tspan></text>
+<text x="35" y="477" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="35" dy="0">• PivotTables</tspan></text>
+<text x="35" y="492" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="35" dy="0">• Location analysis</tspan></text>
+<rect x="181" y="409" width="150" height="87" rx="11" fill="url(#purple)" stroke="#c184ff" stroke-width="1.4"/>
+<text x="192" y="429" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#ebc7ff"><tspan x="192" dy="0">DELIVERABLES</tspan></text>
+<text x="192" y="447" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="192" dy="0">• Cleaned workbook</tspan></text>
+<text x="192" y="462" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="192" dy="0">• Job-role summary</tspan></text>
+<text x="192" y="477" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="192" dy="0">• Charts &amp; insights</tspan></text>
+<text x="192" y="492" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="192" dy="0">• Data-quality notes</tspan></text>
+<rect x="340" y="409" width="148" height="87" rx="11" fill="#082f40" stroke="#53e5ec" stroke-width="1.4"/>
+<text x="351" y="429" font-family="Arial,Helvetica,sans-serif" font-size="12.3" font-weight="700" fill="#83faff"><tspan x="351" dy="0">EXCEL FEATURES</tspan></text>
+<text x="351" y="447" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="351" dy="0">• Power Query</tspan></text>
+<text x="351" y="462" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="351" dy="0">• IF / COUNTIFS</tspan></text>
+<text x="351" y="477" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="351" dy="0">• PivotTables</tspan></text>
+<text x="351" y="492" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="400" fill="#f2fbff"><tspan x="351" dy="0">• Charts &amp; slicers</tspan></text>
+<text x="30" y="519" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#fff"><tspan x="30" dy="0">QUESTIONS 1–5</tspan></text>
+<line x1="203" y1="512" x2="484" y2="512" stroke="#33e6e0" stroke-width="1.8"/>
+<rect x="25" y="527" width="462" height="37" rx="11" fill="url(#row)" stroke="#37e8dc" stroke-width="1.2"/><rect x="34" y="532" width="33" height="27" rx="14" fill="#00623c" stroke="#3cfaad" stroke-width="1.5"/><text x="40" y="551" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#fff"><tspan x="40" dy="0">01</tspan></text><text x="80" y="541" font-family="Arial,Helvetica,sans-serif" font-size="10.9" font-weight="500" fill="#f7ffff"><tspan x="80" dy="0">Audit duplicate IDs, missing job/location/work-type</tspan><tspan x="80" dy="13">fields, and nonnumeric application counts.</tspan></text>
+<rect x="25" y="570" width="462" height="37" rx="11" fill="url(#row)" stroke="#37e8dc" stroke-width="1.2"/><rect x="34" y="575" width="33" height="27" rx="14" fill="#00623c" stroke="#3cfaad" stroke-width="1.5"/><text x="40" y="594" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#fff"><tspan x="40" dy="0">02</tspan></text><text x="80" y="584" font-family="Arial,Helvetica,sans-serif" font-size="10.9" font-weight="500" fill="#f7ffff"><tspan x="80" dy="0">Clean job titles; classify Data Analyst/BI, Engineer,</tspan><tspan x="80" dy="13">Scientist, ML, Business Analyst or Other Technology.</tspan></text>
+<rect x="25" y="613" width="462" height="37" rx="11" fill="url(#row)" stroke="#37e8dc" stroke-width="1.2"/><rect x="34" y="618" width="33" height="27" rx="14" fill="#00623c" stroke="#3cfaad" stroke-width="1.5"/><text x="40" y="637" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#fff"><tspan x="40" dy="0">03</tspan></text><text x="80" y="627" font-family="Arial,Helvetica,sans-serif" font-size="10.9" font-weight="500" fill="#f7ffff"><tspan x="80" dy="0">What share of records are data-related versus</tspan><tspan x="80" dy="13">Other Technology? Report counts and percentages.</tspan></text>
+<rect x="25" y="656" width="462" height="37" rx="11" fill="url(#row)" stroke="#37e8dc" stroke-width="1.2"/><rect x="34" y="661" width="33" height="27" rx="14" fill="#00623c" stroke="#3cfaad" stroke-width="1.5"/><text x="40" y="680" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#fff"><tspan x="40" dy="0">04</tspan></text><text x="80" y="670" font-family="Arial,Helvetica,sans-serif" font-size="10.9" font-weight="500" fill="#f7ffff"><tspan x="80" dy="0">Among data roles, what proportions are Remote,</tspan><tspan x="80" dy="13">Hybrid, On-site or Unknown?</tspan></text>
+<rect x="25" y="699" width="462" height="37" rx="11" fill="url(#row)" stroke="#37e8dc" stroke-width="1.2"/><rect x="34" y="704" width="33" height="27" rx="14" fill="#00623c" stroke="#3cfaad" stroke-width="1.5"/><text x="40" y="723" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#fff"><tspan x="40" dy="0">05</tspan></text><text x="80" y="713" font-family="Arial,Helvetica,sans-serif" font-size="10.9" font-weight="500" fill="#f7ffff"><tspan x="80" dy="0">Which location labels or valid country groups have</tspan><tspan x="80" dy="13">the most data-role records? Keep unknowns visible.</tspan></text>
+<rect x="24" y="746" width="464" height="31" rx="10" fill="#0a3b40" stroke="#2cddd3" stroke-width="1.3"/>
+<text x="36" y="765" font-family="Arial,Helvetica,sans-serif" font-size="9.1" font-weight="500" fill="#e3ffff"><tspan x="36" dy="0">NOTE  This is a historical sample, not current job listings; no structured skills or salary data.</tspan></text>
+<line x1="27" y1="784" x2="483" y2="784" stroke="#20e2da" stroke-width="1.3"/>
+<text x="28" y="797" font-family="Arial,Helvetica,sans-serif" font-size="9.8" font-weight="400" fill="#dff4ff"><tspan x="28" dy="0">MAMOKE AKAUNU · PORTFOLIO PLAYBOOK</tspan></text>
+<text x="468" y="797" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#4ef7ed"><tspan x="468" dy="0">12</tspan></text>
+</svg>
