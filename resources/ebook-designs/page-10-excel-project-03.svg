@@ -34,7 +34,7 @@
 <rect x="23" y="370" width="466" height="65" rx="11" fill="#101d39" stroke="#6188fc" stroke-width="1.2"/>
 <text x="38" y="389" font-family="Arial,Helvetica,sans-serif" font-size="12.8" font-weight="700" fill="#65c2ff"><tspan x="38" dy="0">DATASET: ONE CSV</tspan></text>
 <text x="38" y="408" font-family="Arial,Helvetica,sans-serif" font-size="13.2" font-weight="700" fill="#fff"><tspan x="38" dy="0">marketing_campaign_data_messy.csv</tspan></text>
-<text x="38" y="425" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="400" fill="#b9d1e6"><tspan x="38" dy="0">2,020 campaigns rows  ·  12 fields  ·  intentionally messy</tspan></text>
+<text x="38" y="425" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="400" fill="#b9d1e6"><tspan x="38" dy="0">2,020 records  ·  12 fields  ·  intentionally messy</tspan></text>
 <rect x="23" y="446" width="222" height="91" rx="11" fill="#064237" stroke="#36dcaf" stroke-width="1.5"/>
 <text x="36" y="468" font-family="Arial,Helvetica,sans-serif" font-size="12.7" font-weight="700" fill="#79f9c9"><tspan x="36" dy="0">SKILLS YOU’LL PRACTISE</tspan></text>
 <text x="37" y="486" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#edf9ff"><tspan x="37" dy="0">• Power Query cleaning</tspan></text>
@@ -56,4 +56,5 @@
 <text x="42" y="774" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">05</tspan></text>
 <text x="76" y="766" font-family="Arial,Helvetica,sans-serif" font-size="11.2" font-weight="400" fill="#edf9ff"><tspan x="76" dy="0">Calculate CTR = total valid clicks ÷ valid impressions</tspan></text>
 <text x="76" y="779" font-family="Arial,Helvetica,sans-serif" font-size="11.2" font-weight="400" fill="#edf9ff"><tspan x="76" dy="0">by channel; identify highest and lowest.</tspan></text>
+<text x="30" y="795" font-family="Arial,Helvetica,sans-serif" font-size="8" fill="#9fb9cf">MAMOKE AKAUNU · PORTFOLIO PLAYBOOK</text><text x="473" y="795" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="bold" fill="#51f3e5">10</text>
 </svg>
