@@ -10,8 +10,9 @@ Each project uses a **different one of the ten selected datasets**, with two que
 | 02 | European Accommodation Pricing & Benchmarking | 8–9 | [Project 02](02-accommodation-pricing-benchmarking/) |
 | 03 | Marketing Campaign KPI & Budget Analysis | 10–11 | [Project 03](03-marketing-campaign-kpi-budget-analysis/) |
 | 04 | Technology Job Market & Data Careers Analysis | 12–13 | [Project 04](04-technology-job-market-data-careers/) |
+| 05 | U.S. Airline Route Demand & Capacity Analysis | 14–15 | [Project 05](05-us-airline-route-demand-capacity/) |
 
-The remaining Excel projects (04–10) will each introduce a different industry dataset. No project is intended to repeat the exact same Excel questions. The portfolio project pages are designed at **512 × 800** pixels.
+The remaining Excel projects (06–10) will each introduce a different industry dataset. No project is intended to repeat the exact same Excel questions. The portfolio project pages are designed at **512 × 800** pixels.
 
 ## How to use this section
 
