@@ -1,50 +1,64 @@
 # Excel Project 01 — Sales Performance Analysis
 
-This is a **relationally matched source-data subset** for the first project in *30 Data Projects to Get You Hired*. The dataset files were selected using transaction IDs and their actual matching product/customer IDs, unlike the earlier independent samples.
+**Tool:** Excel  
+**Project:** Analyse retail sales, product categories, stores, customer age groups and estimated gross margins.
 
-## Files
+## Download these four files
 
-- `sales.csv` — **1,200 transactions** from the provided Retail Fashion sales data.
-- `products.csv` — **1,183 matching product records** extracted from the full original product table.
-- `customers_part_01.csv`, `customers_part_02.csv`, `customers_part_03.csv` — together **1,118 matching customers**, with the email field intentionally removed. **Append these three files into one customer table in Excel Power Query**, before joining to sales.
-- [`store_data.csv`](../store_data.csv) — **five original stores**, retained in the parent folder.
+| File | Rows | What it contains |
+|---|---:|---|
+| [sales.csv](sales.csv) | 1,200 | Transactions, dates, product/store/customer keys, quantities, discounts and return flags |
+| [products.csv](products.csv) | 1,183 | Matching product records, categories, list prices and costs |
+| [customers.csv](customers.csv) | 1,118 | Matching customer ages, genders and cities |
+| [stores.csv](stores.csv) | 5 | Store names and regions |
 
-## Relationships
+**These four CSV files are the complete data bundle for Project 01.** No other dataset is needed. Download the CSVs into the same folder on your computer.
 
-`sales.product_id = products.product_id`
+## Join keys
 
-`sales.customer_id = customers.customer_id`
+- `sales.product_id` → `products.product_id`
+- `sales.customer_id` → `customers.customer_id`
+- `sales.store_id` → `stores.store_id`
 
-`sales.store_id = stores.store_id`
+Use **Power Query merges**, **XLOOKUP** or Excel's **Data Model** to relate these tables. Do not match rows by their positions.
 
-## Verified source issues
+## Data-quality issues intentionally retained
 
-Of 1,200 sales transactions:
-- **2** have no matching product record.
-- **51** have a blank customer ID.
-- **0** nonblank customer IDs lack a matching customer record.
-- **8** have no matching store record.
-- **53** have a missing discount.
+Of the **1,200** transactions:
 
-These issues are retained intentionally for Question 1 and Question 2. The separate old files named `sales_sample_3000.csv` and `products_sample_3000.csv` in the parent folder **should not be used together**, because their product keys were selected independently.
+- **2** do not match a product.
+- **51** have blank customer IDs.
+- **8** do not match a store.
+- **53** have a blank discount.
 
-## Financial assumptions
+These are genuine issues from the supplied source, intentionally kept for the first two project questions. Identify unmatched rows before calculations; do not silently delete them.
 
-The source contains product `list_price` and `cost_price`, **not verified transaction selling prices**.
+## Calculation rules for Questions 3–10
 
-- **Units sold:** sum valid numeric nonnegative `quantity` values.
-- **Estimated sales value:** `quantity * list_price * (1 - discount)`, only when quantity, product match, list price and numeric discount from 0 to 1 are valid. Do **not** assume that a blank discount is 0; flag or exclude it and disclose this.
-- **Estimated gross contribution:** estimated sales value minus `quantity * cost_price`.
-- **Estimated gross margin:** estimated gross contribution divided by estimated sales value where positive.
+The files do **not** contain a verified transaction selling-price or actual refund amount. Accordingly, use **estimates**, not audited revenue or accounting profit.
 
-The `returned` field is a flag, not a refund amount or refund date. Some products have list prices below cost: investigate them rather than silently correcting them. Interpret financial results as **estimates**, not audited revenue or accounting profit.
+- **Units sold:** Sum non-negative, valid numeric quantities.
+- **Estimated sales value:** `quantity × list_price × (1 − discount)` on transactions where the product matches and all required values are valid, including discounts between 0 and 1.
+- **Estimated gross contribution:** Estimated sales value − `quantity × cost_price`.
+- **Estimated gross margin %:** Estimated gross contribution ÷ estimated sales value, only when estimated sales value is greater than zero.
+- **Unknown discounts:** Treat blanks as unknown; do not automatically interpret blanks as zero. Explain exclusions.
+- **Returns:** `returned` is just a flag. Do not infer a refund amount or reverse sales automatically.
+- **Age groups:** Create explicit bands from customer ages, such as 18–24, 25–34, 35–44, 45–54, 55+.
+- **Time periods:** Convert transaction dates to Excel dates before grouping by month and year.
 
-## Excel workflow
+Some products have costs above list price. Keep those values visible and discuss the resulting estimated negative margins.
 
-1. Download this folder's sales, products and all three customer part files, plus the linked store CSV.
-2. Import them into Excel via **Data → Get Data → From Text/CSV**.
-3. Append the three customer part files, then join sales to products, customers and stores by IDs.
-4. Keep unmatched transactions visible in the quality audit.
-5. Answer the ten project questions and build a presentation-ready PivotTable dashboard.
+## How to get started
 
-**Licence note:** The source uploader claimed MIT licensing. We have not independently verified the original publication's redistribution rights.
+1. Download all **four CSV files** linked above.
+2. Open Excel and import each file using **Data → Get Data → From Text/CSV**.
+3. Check the four datasets for missing values, invalid entries and unmatched IDs.
+4. Build a validated analysis table or Excel Data Model using the keys above.
+5. Answer **Questions 1–10** in the ebook, create PivotTables and build a management-ready dashboard.
+6. Save your completed workbook and a brief summary of three actionable findings.
+
+The ebook contains the worked solutions. This folder provides **starter data only**.
+
+## Provenance and rights
+
+This linked sample was prepared from the uploaded Retail Fashion Analytics data. The uploader reported an MIT licence, but the original publishing source and redistribution rights have not been independently verified.
