@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="800" viewBox="0 0 512 800" role="img" aria-label="Excel Project 03 Marketing Campaign KPI and Budget Analysis Page 10">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#041126"/><stop offset=".58" stop-color="#05243b"/><stop offset="1" stop-color="#0c1537"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a3946"/><stop offset="1" stop-color="#101e3a"/></linearGradient>
+ <linearGradient id="excel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#007b60"/><stop offset="1" stop-color="#0dc98d"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4e2e8a"/><stop offset="1" stop-color="#172b57"/></linearGradient>
+ <linearGradient id="foot" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4b2094"/><stop offset=".6" stop-color="#009fba"/><stop offset="1" stop-color="#09354d"/></linearGradient>
+</defs>
+<rect width="512" height="800" fill="url(#bg)"/>
+<path d="M0 0H66L0 72Z" fill="#007e99" opacity=".53"/>
+<path d="M512 86 Q410 73 348 155 Q410 132 512 152Z" fill="#039da5" opacity=".14"/>
+<g stroke="#0b658b" stroke-width=".5" opacity=".24"><line x1="310" y1="50" x2="310" y2="175"/><line x1="324" y1="50" x2="324" y2="175"/><line x1="338" y1="50" x2="338" y2="175"/><line x1="352" y1="50" x2="352" y2="175"/><line x1="366" y1="50" x2="366" y2="175"/><line x1="380" y1="50" x2="380" y2="175"/><line x1="394" y1="50" x2="394" y2="175"/><line x1="408" y1="50" x2="408" y2="175"/><line x1="422" y1="50" x2="422" y2="175"/><line x1="436" y1="50" x2="436" y2="175"/><line x1="450" y1="50" x2="450" y2="175"/><line x1="464" y1="50" x2="464" y2="175"/><line x1="478" y1="50" x2="478" y2="175"/><line x1="492" y1="50" x2="492" y2="175"/><line x1="506" y1="50" x2="506" y2="175"/><line x1="520" y1="50" x2="520" y2="175"/><line x1="300" y1="72" x2="512" y2="72"/><line x1="300" y1="86" x2="512" y2="86"/><line x1="300" y1="100" x2="512" y2="100"/><line x1="300" y1="114" x2="512" y2="114"/><line x1="300" y1="128" x2="512" y2="128"/><line x1="300" y1="142" x2="512" y2="142"/><line x1="300" y1="156" x2="512" y2="156"/><line x1="300" y1="170" x2="512" y2="170"/></g>
+<path d="M356 160 L380 140 L405 147 L428 116 L451 126 L476 99" fill="none" stroke="#2ae7de" stroke-width="2" opacity=".6"/>
+<text x="27" y="25" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#f3fcff"><tspan x="27" dy="0">▥  30 DATA PROJECTS TO GET YOU HIRED</tspan></text>
+<text x="416" y="25" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#55f2c6"><tspan x="416" dy="0">EXCEL</tspan></text>
+<line x1="27" y1="36" x2="486" y2="36" stroke="#11c7d3" stroke-width="1.2"/>
+<rect x="28" y="63" width="71" height="76" rx="13" fill="url(#excel)" stroke="#37f2b2" stroke-width="1.8"/>
+<rect x="37" y="74" width="49" height="52" rx="7" fill="#063c30" opacity=".9"/>
+<text x="48" y="112" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" fill="#fff"><tspan x="48" dy="0">X</tspan></text>
+<rect x="112" y="56" width="132" height="30" rx="10" fill="#073b35" stroke="#27e1b6" stroke-width="1.5"/>
+<text x="123" y="76" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#5af3c6"><tspan x="123" dy="0">EXCEL PROJECT 03</tspan></text>
+<text x="111" y="104" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#fff"><tspan x="111" dy="0">MARKETING CAMPAIGN</tspan></text>
+<text x="111" y="131" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#fff"><tspan x="111" dy="0">KPI &amp; BUDGET ANALYSIS</tspan></text>
+<text x="112" y="157" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#48e8e0"><tspan x="112" dy="0">PAGE 1 OF 2  ·  QUESTIONS 1–5</tspan></text>
+<rect x="23" y="176" width="466" height="111" rx="13" fill="url(#panel)" stroke="#26d8bc" stroke-width="1.7"/>
+<text x="38" y="198" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#75fbde"><tspan x="38" dy="0">BUSINESS SCENARIO</tspan></text>
+<text x="38" y="220" font-family="Arial,Helvetica,sans-serif" font-size="11.8" font-weight="400" fill="#e8f6ff"><tspan x="38" dy="0">You are a Junior Marketing Performance Analyst. Your</tspan></text>
+<text x="38" y="238" font-family="Arial,Helvetica,sans-serif" font-size="11.8" font-weight="400" fill="#e8f6ff"><tspan x="38" dy="0">manager needs reliable campaign spend and engagement</tspan></text>
+<text x="38" y="256" font-family="Arial,Helvetica,sans-serif" font-size="11.8" font-weight="400" fill="#e8f6ff"><tspan x="38" dy="0">metrics before allocating the next advertising budget.</tspan></text>
+<text x="38" y="275" font-family="Arial,Helvetica,sans-serif" font-size="11.8" font-weight="400" fill="#e8f6ff"><tspan x="38" dy="0">Clean the export and compare channel effectiveness.</tspan></text>
+<rect x="23" y="298" width="466" height="62" rx="11" fill="#082e40" stroke="#35e0df" stroke-width="1.5"/>
+<text x="37" y="318" font-family="Arial,Helvetica,sans-serif" font-size="12.8" font-weight="700" fill="#70efdf"><tspan x="37" dy="0">DATASET LINK</tspan></text>
+<rect x="160" y="306" width="314" height="42" rx="8" fill="#06192d" stroke="#9fece4" stroke-width="1.8"/>
+<rect x="23" y="370" width="466" height="65" rx="11" fill="#101d39" stroke="#6188fc" stroke-width="1.2"/>
+<text x="38" y="389" font-family="Arial,Helvetica,sans-serif" font-size="12.8" font-weight="700" fill="#65c2ff"><tspan x="38" dy="0">DATASET: ONE CSV</tspan></text>
+<text x="38" y="408" font-family="Arial,Helvetica,sans-serif" font-size="13.2" font-weight="700" fill="#fff"><tspan x="38" dy="0">marketing_campaign_data_messy.csv</tspan></text>
+<text x="38" y="425" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="400" fill="#b9d1e6"><tspan x="38" dy="0">2,020 campaigns rows  ·  12 fields  ·  intentionally messy</tspan></text>
+<rect x="23" y="446" width="222" height="91" rx="11" fill="#064237" stroke="#36dcaf" stroke-width="1.5"/>
+<text x="36" y="468" font-family="Arial,Helvetica,sans-serif" font-size="12.7" font-weight="700" fill="#79f9c9"><tspan x="36" dy="0">SKILLS YOU’LL PRACTISE</tspan></text>
+<text x="37" y="486" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#edf9ff"><tspan x="37" dy="0">• Power Query cleaning</tspan></text>
+<text x="37" y="502" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#edf9ff"><tspan x="37" dy="0">• SUMIFS, IF &amp; IFERROR</tspan></text>
+<text x="37" y="518" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#edf9ff"><tspan x="37" dy="0">• PivotTables and KPIs</tspan></text>
+<rect x="257" y="446" width="232" height="91" rx="11" fill="url(#purple)" stroke="#ba83fe" stroke-width="1.5"/>
+<text x="270" y="468" font-family="Arial,Helvetica,sans-serif" font-size="12.7" font-weight="700" fill="#f1c8ff"><tspan x="270" dy="0">YOUR DELIVERABLES</tspan></text>
+<text x="271" y="486" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#e8f6ff"><tspan x="271" dy="0">• Cleaned Excel workbook</tspan></text>
+<text x="271" y="502" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#e8f6ff"><tspan x="271" dy="0">• Channel comparison</tspan></text>
+<text x="271" y="518" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#e8f6ff"><tspan x="271" dy="0">• KPI summary &amp; charts</tspan></text>
+<text x="29" y="560" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#f6feff"><tspan x="29" dy="0">QUESTIONS 1–5</tspan></text>
+<line x1="199" y1="556" x2="486" y2="556" stroke="#2ce5e2" stroke-width="1.6"/>
+<rect x="24" y="570" width="464" height="42" rx="12" fill="#092d3b" stroke="#24c9ce" stroke-width="1.4"/><rect x="35" y="578" width="29" height="26" rx="13" fill="#00634f" stroke="#49e8b8" stroke-width="1.3"/><text x="42" y="596" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">01</tspan></text><text x="76" y="585" font-family="Arial,Helvetica,sans-serif" font-size="11.1" font-weight="500" fill="#edf9ff"><tspan x="76" dy="0">Audit duplicate records, repeated IDs, missing conversions,</tspan><tspan x="76" dy="13.2">unknown channels, negative spend and invalid date ranges.</tspan></text>
+<rect x="24" y="615" width="464" height="42" rx="12" fill="#092d3b" stroke="#24c9ce" stroke-width="1.4"/><rect x="35" y="623" width="29" height="26" rx="13" fill="#00634f" stroke="#49e8b8" stroke-width="1.3"/><text x="42" y="641" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">02</tspan></text><text x="76" y="630" font-family="Arial,Helvetica,sans-serif" font-size="11.1" font-weight="500" fill="#edf9ff"><tspan x="76" dy="0">Standardise Channel and Active; select the correct primary</tspan><tspan x="76" dy="13.2">Clicks field without double-counting the second column.</tspan></text>
+<rect x="24" y="660" width="464" height="42" rx="12" fill="#092d3b" stroke="#24c9ce" stroke-width="1.4"/><rect x="35" y="668" width="29" height="26" rx="13" fill="#00634f" stroke="#49e8b8" stroke-width="1.3"/><text x="42" y="686" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">03</tspan></text><text x="76" y="675" font-family="Arial,Helvetica,sans-serif" font-size="11.1" font-weight="500" fill="#edf9ff"><tspan x="76" dy="0">How many distinct campaigns exist overall and in each</tspan><tspan x="76" dy="13.2">cleaned channel? Keep unknown channels separate.</tspan></text>
+<rect x="24" y="705" width="464" height="42" rx="12" fill="#092d3b" stroke="#24c9ce" stroke-width="1.4"/><rect x="35" y="713" width="29" height="26" rx="13" fill="#00634f" stroke="#49e8b8" stroke-width="1.3"/><text x="42" y="731" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">04</tspan></text><text x="76" y="720" font-family="Arial,Helvetica,sans-serif" font-size="11.1" font-weight="500" fill="#edf9ff"><tspan x="76" dy="0">Which channels have the most valid nonnegative spend,</tspan><tspan x="76" dy="13.2">and what share of the total do they represent?</tspan></text>
+<rect x="24" y="750" width="464" height="37" rx="12" fill="#063545" stroke="#24c9ce" stroke-width="1.4"/>
+<rect x="35" y="756" width="29" height="25" rx="12" fill="#00634f" stroke="#49e8b8" stroke-width="1.3"/>
+<text x="42" y="774" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#f7ffff"><tspan x="42" dy="0">05</tspan></text>
+<text x="76" y="766" font-family="Arial,Helvetica,sans-serif" font-size="11.2" font-weight="400" fill="#edf9ff"><tspan x="76" dy="0">Calculate CTR = total valid clicks ÷ valid impressions</tspan></text>
+<text x="76" y="779" font-family="Arial,Helvetica,sans-serif" font-size="11.2" font-weight="400" fill="#edf9ff"><tspan x="76" dy="0">by channel; identify highest and lowest.</tspan></text>
+</svg>
