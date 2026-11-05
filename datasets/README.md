@@ -1,6 +1,6 @@
 # Dataset Catalogue
 
-The repository contains ten working dataset folders for the Excel portfolio and one excluded-finance information folder. Some files are selected samples and are not representative of their source populations.
+The repository contains working dataset folders for the Excel portfolio and one excluded-finance information folder. Some datasets are selected samples, not representative source populations.
 
 ## Working datasets
 1. [Retail Fashion Analytics](retail-fashion-analytics/project-01/) — four linked CSVs for Project 01.
@@ -8,7 +8,7 @@ The repository contains ten working dataset folders for the Excel portfolio and 
 3. [Marketing Campaigns](marketing-campaigns/) — intentionally messy campaign CSV.
 4. [LinkedIn Job Market](linkedin-jobs/) — anonymised technology-job sample.
 5. [U.S. Airline Routes](us-airline-routes/) — corrected **1,199-row** historical route sample.
-6. [FIFA 21 Players](fifa21-players/) — raw and reference-cleaned game-player samples.
+6. [FIFA 21 Players](fifa21-players/) — **Project 06 full uncleaned source selected (18,979 records); repository migration pending**. Older small raw/cleaned samples remain until replacement and rights are resolved.
 7. [Spotify Tracks](spotify-tracks/) — decade-based samples.
 8. [Synthetic Crime Incidents](crime-incidents/) — corrected 2,999-row synthetic practice sample.
 9. [Travel Insurance](travel-insurance/) — 5,000-row sample.
