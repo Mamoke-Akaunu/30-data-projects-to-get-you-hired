@@ -10,7 +10,7 @@ The repository contains ten working dataset folders for the Excel portfolio and 
 5. [U.S. Airline Routes](us-airline-routes/) — corrected **1,199-row** historical route sample.
 6. [FIFA 21 Players](fifa21-players/) — raw and reference-cleaned game-player samples.
 7. [Spotify Tracks](spotify-tracks/) — decade-based samples.
-8. [Synthetic Crime Incidents](crime-incidents/) — 2,000-row sample.
+8. [Synthetic Crime Incidents](crime-incidents/) — corrected 2,999-row synthetic practice sample.
 9. [Travel Insurance](travel-insurance/) — 5,000-row sample.
 10. [U.S. Census Indicators](us-census/) — uploaded census source.
 
