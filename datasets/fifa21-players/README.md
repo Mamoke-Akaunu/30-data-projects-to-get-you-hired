@@ -1,24 +1,39 @@
-# FIFA 21 Player Ratings — Raw and Cleaned Samples
+# FIFA 21 Player Ratings & Value Analysis — Dataset Notes
 
-**Used by:** [Excel Project 06 — FIFA 21 Player Ratings & Value Analysis](../../excel-projects/06-fifa21-player-ratings-value/)
+**Used by:** [Excel Project 06](../../excel-projects/06-fifa21-player-ratings-value/)
 
-## Dataset files
-- [fifa21_raw_sample_1000.csv](fifa21_raw_sample_1000.csv) — unstandardised source sample for cleaning practice.
-- [fifa21_cleaned_sample_1000.csv](fifa21_cleaned_sample_1000.csv) — comparison/reference sample with separate `Club`, `Contract` and `Best Position` fields.
+## Selected source and current status
 
-**Use the raw sample for the exercise**; consult the cleaned sample only to validate parsing rules and document differences. These are **alternative versions of player data**, not tables to append or join indiscriminately. File names reflect the original sample labels; verify record counts and uniqueness when importing.
+The chosen analysis source is the **original, uncleaned FIFA 21 raw CSV** supplied for Project 06: `fifa21_raw_data(2).csv` (local upload name). Verification of that upload found:
 
-## Fields available
-Player `ID`, `Name`, `Nationality`, `Age`, overall rating `↓OVA`, potential `POT`, `Positions`, `Value`, `Wage`, `Release Clause`, technical attributes, height, weight, and preferred foot/foot fields. Raw data combines team and contract details in `Team & Contract`; the cleaned sample provides `Club` and `Contract`. Monetary fields contain currency symbols and abbreviated magnitudes (`K`, `M`) and should be parsed only with documented assumptions.
+- **18,979 data records and 77 columns**.
+- **18,978 distinct player IDs**; one player ID occurs twice. This has **not** been removed.
+- Raw fields include `ID`, `Name`, `Nationality`, `Age`, `↓OVA`, `POT`, `Positions`, `BP`, `Value`, `Wage`, `foot`, `PAC`, `SHO`, `PAS`, `DRI`, `DEF`, `PHY`, and `Team & Contract`.
+- Height/weight values and monetary labels retain the source formats.
 
-## Quality cautions
-- IDs, names and positions need validation; preserve the original values in a `Raw_Data` query.
-- The raw file includes multiline quoted text; use a proper CSV importer rather than splitting by newlines.
-- Do not assume cleaned values are authoritative: compare transformations, missing values and mismatches.
-- `Value`, `Wage`, and `Release Clause` are **game estimates**, not verified transfer fees, market prices, or employment salaries.
-- Missing or unparsable monetary fields should stay unknown rather than being forced to zero.
-- Ratings and attribute comparisons describe the FIFA 21 game dataset, not real player ability or professional scouting outcomes.
-- This is a selected sample, not all FIFA 21 players.
+**Do not clean, deduplicate, reformat, or overwrite the selected raw data yet.** Assess the source against the final uploaded questions first. Worked solutions and a cleaned reference are deferred until the question set has been validated and approved.
 
-## Licence and provenance
-The sample was described as CC0 by a republisher, but the underlying SoFIFA / EA data rights and suitability for commercial redistribution remain **unverified**. Confirm rights before distributing commercially.
+## Repository file status
+
+The existing repository files `fifa21_raw_sample_1000.csv` and `fifa21_cleaned_sample_1000.csv` are **older, smaller samples** and are not the selected full raw source. Their names do not reflect their actual record counts. Do not append these samples to the full source or use them for full-dataset answers.
+
+**Migration not yet completed:** This README update does **not** mean the new 18,979-record upload has been committed to this GitHub folder. The old samples are retained until the replacement can be verified in the repository, after which irrelevant files can be reviewed for removal.
+
+## Planned analysis process
+
+1. Import the full raw CSV without changing the source.
+2. When Pages 16 and 17 are supplied, check whether every question is supported by actual fields and data.
+3. Review all ten questions for overlap, and obtain approval for any proposed changes.
+4. Only after the questions pass and approval is given, prepare verified answers and any separately authorised cleaned working copy.
+
+## Important interpretation cautions
+
+- The raw file includes multiline quoted cells; import as CSV with proper quote handling.
+- Preserve the repeated ID during the initial audit: it is a data-quality finding, not a reason to silently change the source.
+- Parse euro-labelled K/M values only in derived analysis columns; do not rewrite the raw values.
+- FIFA 21 ratings, values and wages are **game data**, not real-world scouting assessments, transaction prices or verified salaries.
+- The source is not guaranteed to be representative of all football players.
+
+## Provenance and redistribution
+
+The source is a third-party FIFA 21 player dataset. Its underlying origin and permissions for public or commercial redistribution remain **unverified**. Public accessibility is not itself a redistribution licence. Obtain appropriate clearance before publishing the full third-party CSV for download.
