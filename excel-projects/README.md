@@ -12,8 +12,9 @@ Each project uses a **different one of the ten selected datasets**, with two que
 | 04 | Technology Job Market & Data Careers Analysis | 12–13 | [Project 04](04-technology-job-market-data-careers/) |
 | 05 | U.S. Airline Route Demand & Capacity Analysis | 14–15 | [Project 05](05-us-airline-route-demand-capacity/) |
 | 06 | FIFA 21 Player Ratings & Value Analysis | 16–17 | [Project 06](06-fifa21-player-ratings-value/) |
+| 07 | Spotify Audio Features & Hit/Flop Analysis | 18–19 | [Project 07](07-spotify-audio-features-hit-flop/) |
 
-The remaining Excel projects (07–10) will each use a different industry dataset. Project pages are designed at **512 × 800** pixels.
+The remaining Excel projects (08–10) will each use a different industry dataset. Project pages are designed at **512 × 800** pixels.
 
 ## How to use
 Read each project brief and the associated dataset README, then complete the ten questions using Excel. Preserve raw data, cleaning decisions, formulas, PivotTables and dashboard visuals. Do not publish the worked answer key alongside starter files.
